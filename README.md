@@ -1,0 +1,2 @@
+# wizard
+Just for fun
